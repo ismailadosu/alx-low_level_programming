@@ -1,4 +1,4 @@
-#include <studio>
+#include <studio.h>
 /**
  * main - main block
  * Return: 0
